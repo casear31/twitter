@@ -1,0 +1,63 @@
+[
+    {
+        "userName": "Олег Васильевич",
+        "nickName": "vasil",
+        "avatar": "vasil.jpg",
+        "text": "Где детонатор?",
+		"postDate": "02.14.2012, 05:00"
+    },
+    {
+        "userName": "Brock",
+        "nickName": "brock",
+        "avatar": "brock.jpg",
+        "text": "По своей сути рыбатекст является альтернативой традиционному lorem ipsum, который вызывает у некторых людей недоумение при попытках прочитать рыбу текст. В отличии от lorem ipsum, текст рыба на русском языке наполнит любой макет непонятным смыслом и придаст неповторимый колорит советских времен.",
+        "postDate": "02.05.2012, 13:27",
+        "img": "https://fish-text.ru/images/logo.png",
+        "likes": 50
+    },
+    {
+        "userName": "Raamin",
+        "nickName": "raamin",
+        "avatar": "raamin.jpg",
+        "text": "По своей сути рыбатекст является альтернативой традиционному lorem ipsum, который вызывает у некторых людей недоумение при попытках прочитать рыбу текст. В отличии от lorem ipsum, текст рыба на русском языке наполнит любой макет непонятным смыслом и придаст неповторимый колорит советских времен.",
+        "postDate": "03.11.2012, 10:30",
+        "likes": 999
+    },
+    {
+        "userName": "Дональд",
+        "nickName": "trampampam",
+        "avatar": "trampampam.jpg",
+        "text": "Зарегался на вк, хороший сервис и не банят",
+        "postDate": "02.05.2012, 13:27",
+        "img": "https://i2.wp.com/media.globalnews.ca/videostatic/news/vamt80qbaq-94ovmaxjqg/trumptwitterupdate.jpg?w=500&quality=70&strip=all",
+        "likes": 50
+        
+    }
+    ,
+    {
+        "userName": "Олег Васильевич",
+        "nickName": "vasil",
+        "avatar": "vasil.jpg",
+        "text": "Где детонатор?",
+        "postDate": "02.14.2012, 05:00",
+        "img": "https://www.meme-arsenal.com/memes/27606cb09d10f670389750cffb4d900d.jpg",
+        "likes": 666
+    },
+    {
+        "userName": "Вы",
+        "nickName": "whySoSerious",
+        "avatar": "userAv.jpg",
+        "text": "Олег, успокойся! Вот твой детонатор!",
+        "postDate": "02.14.2012, 05:05",
+        "img": "./images/detonator.jpg",
+        "likes": 1
+    },
+    {
+        "userName": "Raamin",
+        "nickName": "raamin",
+        "avatar": "raamin.jpg",
+        "text": "По своей сути рыбатекст является альтернативой традиционному lorem ipsum, который вызывает у некторых людей недоумение при попытках прочитать рыбу текст. В отличии от lorem ipsum, текст рыба на русском языке наполнит любой макет непонятным смыслом и придаст неповторимый колорит советских времен.",
+        "postDate": "03.11.2012, 10:30",
+        "likes": 999
+    }
+]
